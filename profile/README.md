@@ -1,6 +1,6 @@
 # Hi 👋, wir sind SWE
 
-Wir sind eine Digitalagentur aus Kassel. Wir l(i)eben schickes Design, smarten Code und herausragende Nutzerführung. So
+Wir sind eine [Digitalagentur](https://smart-web-elements.com) aus Kassel. Wir l(i)eben schickes Design, smarten Code und herausragende Nutzerführung. So
 erstellen wir Websites, programmieren Anwendungen, verknüpfen Schnittstellen und digitalisieren Prozesse.
 
 Folge uns doch auf:
